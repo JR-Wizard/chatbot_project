@@ -43,20 +43,22 @@ The chatbot supports switching between servers during conversation and keeps a h
 - Packages: `flask`, `requests`
 
 Install packages using:
-
+~~~
 pip install flask requests
+~~~
 ---------------------------------------------------
 ## Running the MCP Servers
 Open five separate terminals and start each MCP server with:
-
+~~~
 python mcp_server.py       # Server 1 on port 5001
 python mcp_server2.py      # Server 2 on port 5002
 python mcp_server3.py      # Server 3 on port 5003
 python mcp_server4.py      # Server 4 on port 5004
 python mcp_server5.py      # Server 5 on port 5005
-
+~~~
 ## Running the chatbot
-
+~~~
 python chatbot.py
+~~~
 -------------------------------------------------------------------
 
