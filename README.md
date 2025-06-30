@@ -39,7 +39,7 @@ The chatbot supports switching between servers during conversation and keeps a h
 
 ### Prerequisites
 
-- Python 3.6 or higher installed
+- Python 3.11 or higher installed
 - Packages: `flask`, `requests`
 
 Install packages using:
